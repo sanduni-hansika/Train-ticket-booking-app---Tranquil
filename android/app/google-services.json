@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812727569363",
+    "project_id": "trainbooking-a8cc9",
+    "storage_bucket": "trainbooking-a8cc9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812727569363:android:0a7ef86a2c94857bcebd26",
+        "android_client_info": {
+          "package_name": "com.example.train"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQybfq6_qit7xdTl7sZ9C-OX94N4eYG4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
