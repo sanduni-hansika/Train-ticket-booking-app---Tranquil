@@ -1,7 +1,0 @@
-# Ignore iOS, Android, web build files
-ios/* linguist-vendored
-android/* linguist-vendored
-web/* linguist-vendored
-
-# Only count Dart files
-*.dart linguist-detectable=true
