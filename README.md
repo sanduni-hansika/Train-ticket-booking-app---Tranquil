@@ -1,16 +1,59 @@
-# train
+🚆 Tranquil – Train Ticket Booking App
 
-A new Flutter project.
+Tranquil is a modern, user-friendly train ticket booking app designed to make travel seamless, secure, and enjoyable. It combines convenience, real-time updates, and smart features to enhance the journey experience for passengers.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+  -Secure Authentication – Safe sign-in, sign-up, and password recovery
 
-A few resources to get you started if this is your first Flutter project:
+  -Train Schedule Search – Accurate, up-to-date train timings
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  -Ticket Fare Search – Plan travel within your budget
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  -Live Train Tracking – View real-time train locations with Google Maps
+
+  -Lost and Found Service – Report or recover lost items
+
+  -Booking History – Manage and view past bookings
+
+  -User Reviews – Add and read feedback from passengers
+
+  -User Guide – Instructions for emergencies and critical situations
+
+  -Profile Management – Update account info; images stored in Cloudinary
+
+  -Chatbot Assistance – Instant AI support via Groq-powered chatbot
+
+  -Contact Directory – Important railway department numbers
+
+  -Seat Booking – Reserve seats using Firebase Realtime Database
+
+  -Train Ticket Booking – Purchase tickets digitally
+
+  -QR Code Ticketing – Receive instant QR code for verification
+
+💻 Technologies Used
+
+  -Flutter – Cross-platform mobile UI
+
+  -Firebase – Auth, Realtime Database, Firestore
+
+  -Cloudinary – Profile image storage
+
+  -Google Maps API – Live train tracking
+
+  -Groq API – AI-powered chatbot
+
+
+🎥 Demo
+
+🎬 [Watch 4-Minute Demo](https://drive.google.com/file/d/1ZH5Uv7Eyvp5aqUHr_Yod4W3-rqljFKlF/view?usp=drive_link)
+
+
+📄 License
+
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE.txt)
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE.txt) file for details.
+
+
+
